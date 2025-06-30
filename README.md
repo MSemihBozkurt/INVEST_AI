@@ -27,7 +27,7 @@ For novice investors, there is a guidance chatbot based on RAG technology. It an
 
 ## Technologies and Techniques Used
 
-This project effectively utilizes **non-parametric grounding** techniques(RAG, Multi-Agent Framework, Function Calling, Structured Output), which are fundamental to modern LLM applications.
+This project effectively utilizes **non-parametric grounding** techniques (RAG, Multi-Agent Framework, Function Calling, Structured Output), which are fundamental to modern LLM applications.
 
 * **AI Model:** The agents and chatbots are powered by Google's **Gemini 2.0 Flash** model.
 * **Grounding Techniques:**
