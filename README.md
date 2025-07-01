@@ -55,11 +55,11 @@ This project was developed as a term project for the **SENG 472 - LLM Powered So
    - Windows: `venv\Scripts\activate`
    - Mac/Linux: `source venv/bin/activate`
 4. Install requirements: `pip install -r requirements.txt`
-5. Create a `.env` file and add your GEMINI_API_KEY, GOOGLE_API_KEY, SERP_API_KEY, FINNHUB_API_KEY.(GEMINI_API_KEY and GOOGLE_API_KEY could be same)
+5. Create a `.env` file and add your GEMINI_API_KEY, GOOGLE_API_KEY, SERP_API_KEY, FINNHUB_API_KEY. (GEMINI_API_KEY and GOOGLE_API_KEY could be same.)
 6. Run the chatbot via Gradio Interface: `python app.py`
 
 
 ## Demo Video
 
-[Watch the project demo video here.](https://www.youtube.com/watch?v=376wNZppZ54)
+[Watch the project demo video from here.](https://www.youtube.com/watch?v=376wNZppZ54)
 
