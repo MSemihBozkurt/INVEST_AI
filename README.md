@@ -4,7 +4,7 @@ The project is a comprehensive, Gradio-based investment assistant application de
 
 ## About The Project
 
-The application begins with a detailed risk profile questionnaire to assess the user's financial situation, investment goals, knowledge level, and risk tolerance. Based on the answers, a personalized investor profile is generated.
+The application begins with a risk profile questionnaire to assess the user's financial situation, investment goals, knowledge level, and risk tolerance. Based on the answers, a personalized investor profile is generated.
 
 The main chat assistant then uses this profile to:
 1.  Identify suitable stock symbols for the user via an **Insight Agent**.
@@ -19,8 +19,8 @@ For novice investors, there is a guidance chatbot based on RAG technology. It an
 
 * **Personalized Investor Profile:** In-depth questionnaire for custom risk and goal analysis.
 * **AI-Powered Chat Assistant:** Delivers tailored investment recommendations using Gemini agents.
-* **Market Sentiment Analysis:** Real-time sentiment analysis based on news enriched by Google Search.
-* **RAG-Based Educational Bot:** Answers investment questions with source-cited responses from a local PDF library.
+* **Market Sentiment Analysis:** Real-time sentiment analysis based on news enriched by Google Search Results.
+* **RAG-Based Educational Bot:** Answers investment questions with source-cited responses from system's knowladge base.
 * **Real-Time Data Integration:** Live stock prices, news, and financial statements from Yahoo Finance, Finnhub APIs and SerpApi.
 * **User-Friendly Interface:** A multi-panel interface built with Gradio for seamless switching between the questionnaire, chat, analysis, and education modes.
 * **Extra Functionalities:** API usage and cost tracking, process logging for transparency, Excel export for financial data, and chat history management.
